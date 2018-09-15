@@ -19,3 +19,7 @@ nethood-react/.env.production.local
 nethood-react/npm-debug.log*
 nethood-react/yarn-debug.log*
 nethood-react/yarn-error.log*
+
+
+# Python
+venv
