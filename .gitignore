@@ -20,6 +20,7 @@ nethood-react/npm-debug.log*
 nethood-react/yarn-debug.log*
 nethood-react/yarn-error.log*
 
+.vscode
 
 # Python
 venv
