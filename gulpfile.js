@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var clean = require('gulp-clean');
 
 var htmlSrc = 'nethood-react/build/*.html';
-var staticSrc = ['nethood-react/build/static/**/*', 
+var staticSrc = ['nethood-react/build/**/*', 
                  'nethood-react/build/*.json',
                  'nethood-react/build/*.ico',
                  'nethood-react/build/*.js'];
@@ -27,7 +27,7 @@ gulp.task('html', ['clean-html'], function() {
 
 gulp.task('static', ['clean-static'], function() {
   gulp.src(staticSrc)
-    .pipe(gulp.dest(staticDest + '/static/'));  
+    .pipe(gulp.dest(staticDest));  
 });
 
 gulp.task('react-to-django', ['static', 'html']);
