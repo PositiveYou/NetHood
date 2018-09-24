@@ -33,6 +33,7 @@ nethood-react/yarn-error.log*
 venv
 
 #   production
+nethood/nethood/secret_settings.py
 nethood/frontend/static/frontend/build
 nethood/frontend/templates/frontend/build
 
