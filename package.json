@@ -1,0 +1,9 @@
+{
+  "name": "nethood-global",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {}
+}
