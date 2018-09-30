@@ -1,6 +1,6 @@
 # NetHood
 
-Taking back sports to the hood. 
+Taking back sports to the hood.
 
 ## Description
 
@@ -47,7 +47,7 @@ Make sure that **CORS is enabled** on the Django settings and the **python virtu
 ## Contribute
 
 First thank you for making the world a better place to play together!
-Secondly **FORK** this repository into your own kickass Github account. Pull requests can be passed only if it was **Code Reviewd** by another superstar from the team which is working on the project. 
+Secondly **FORK** this repository into your own kickass Github account. Pull requests can be passed only if it was **Code Reviewd** by another superstar from the team which is working on the project.
 
 ## Bibliography
 
