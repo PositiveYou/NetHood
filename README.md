@@ -20,7 +20,7 @@ This will work on both **macOS** and **Windows**.
 
 * Clone this repository into your local machine - this will create the project-root directory.
 * Create a Python `virtualenv` with Python version 3.6.5 - [Learn virturalenv](https://virtualenv.pypa.io/en/stable/userguide/).
-* Navigate to project-root directory and run command `python -m pip install -r requerments.txt`.
+* Navigate to project-root directory and run command `python -m pip install -r requirements.txt`.
 * Run `npm install` in that directory.
 * Navigate into `nethood-react`, run command `npm install`.
 
