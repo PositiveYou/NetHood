@@ -44,6 +44,8 @@ nethood/api/migrations/
 nethood/nethood/__pycache__
 nethood/frontend/__pycache__
 nethood/frontend/migrations/__pycache__
+nethood/api/__pycache__
+nethood/api/migrations/__pycache__
 
 #   DataBase
 nethood/db.sqlite3

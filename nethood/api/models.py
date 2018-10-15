@@ -7,3 +7,4 @@ class User(models.Model):
 
 class Event(models.Model):
     name = models.CharField(max_length=200)
+    pub_date = models.DateField(auto_now=True)
